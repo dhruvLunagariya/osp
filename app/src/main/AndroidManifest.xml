@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DeadlockAndConcurrency">
         <activity
+            android:name=".aboutapp"
+            android:exported="false" />
+        <activity
             android:name=".AboutDevelopers"
             android:label="Third Activity"
             android:parentActivityName=".MainActivity" />

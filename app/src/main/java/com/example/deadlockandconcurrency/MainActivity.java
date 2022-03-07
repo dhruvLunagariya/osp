@@ -64,7 +64,8 @@ public class MainActivity extends AppCompatActivity {
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
                 switch (item.getItemId()) {
                     case R.id.nav_aboutApp:
-                        Toast.makeText(MainActivity.this, "About App is Clicked", Toast.LENGTH_SHORT).show();
+                        Intent intent1 = new Intent(MainActivity.this, aboutapp.class);
+                        startActivity(intent1);
                         return true;
 
                     case R.id.nav_aboutDevelopers:

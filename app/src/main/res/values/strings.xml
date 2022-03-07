@@ -1,9 +1,35 @@
 <resources>
-    <string name="app_name">Deadlock and Concurrency</string>
+<!--    <string name="app_name">Deadlock and Concurrency</string>-->
     <string name="startButton">START</string>
     <string name="nav_open">Open</string>
     <string name="nav_close">Close</string>
     <string name="concurrency">Concurrency</string>
     <string name="algorithms">Algorithms</string>
     <string name="deadlock">Deadlock</string>
+    <string name="app_name">About developer</string>
+    <string name="app_about">
+    \n<b>Why you should use this App?</b>\n\n
+       <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Nam sit amet elit ac libero porttitor cursus.
+        Etiam non nisl eget urna commodo hendrerit.
+        Aenean non elit vulputate, sollicitudin ante ut, fermentum neque.</br>\n\n
+
+          <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Nam sit amet elit ac libero porttitor cursus.
+        Etiam non nisl eget urna commodo hendrerit.
+        Aenean non elit vulputate, sollicitudin ante ut, fermentum neque.</br>\n\n\n
+
+         <b><br><h2>How to  use this App?</h2></br></b>\n\n
+       <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Nam sit amet elit ac libero porttitor cursus.
+        Etiam non nisl eget urna commodo hendrerit.
+        Aenean non elit vulputate, sollicitudin ante ut, fermentum neque.</br>\n\n
+          <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Nam sit amet elit ac libero porttitor cursus.
+        Etiam non nisl eget urna commodo hendrerit.
+        Aenean non elit vulputate, sollicitudin ante ut, fermentum neque.</br>
+
+
+
+    </string>
 </resources>
