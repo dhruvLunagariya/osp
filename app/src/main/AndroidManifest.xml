@@ -10,12 +10,17 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DeadlockAndConcurrency">
         <activity
+            android:name=".AboutApp"
+            android:parentActivityName=".MainActivity"
+            android:label=""
+            android:exported="false" />
+        <activity
             android:name=".AboutDevelopers"
-            android:label="Third Activity"
+            android:label=""
             android:parentActivityName=".MainActivity" />
         <activity
             android:name=".IndexPage"
-            android:label="Second Activity"
+            android:label=""
             android:parentActivityName=".MainActivity" />
         <activity
             android:name=".MainActivity"
