@@ -10,6 +10,5 @@ public class IndexPage extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_index_page);
-        //getSupportActionBar().setTitle("Back to home");
     }
 }

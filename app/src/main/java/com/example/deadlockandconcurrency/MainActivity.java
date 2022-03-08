@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBarDrawerToggle;
@@ -63,8 +64,7 @@ public class MainActivity extends AppCompatActivity {
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
                 switch (item.getItemId()) {
                     case R.id.nav_aboutApp:
-                        Intent intent1 = new Intent(MainActivity.this, AboutApp.class);
-                        startActivity(intent1);
+                        Toast.makeText(MainActivity.this, "About App is Clicked", Toast.LENGTH_SHORT).show();
                         return true;
 
                     case R.id.nav_aboutDevelopers:

@@ -1,62 +1,9 @@
 <resources>
-<!--    <string name="app_name">Deadlock and Concurrency</string>-->
+    <string name="app_name">Deadlock and Concurrency</string>
     <string name="startButton">START</string>
     <string name="nav_open">Open</string>
     <string name="nav_close">Close</string>
     <string name="concurrency">Concurrency</string>
     <string name="algorithms">Algorithms</string>
     <string name="deadlock">Deadlock</string>
-    <string name="app_name">Deadlock and Concurrency</string>
-    <string name="app_about">
-    \n<b>Why you should use this App?</b>\n\n
-       <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Nam sit amet elit ac libero porttitor cursus.
-        Etiam non nisl eget urna commodo hendrerit.
-        Aenean non elit vulputate, sollicitudin ante ut, fermentum neque.</br>\n\n
-
-          <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Nam sit amet elit ac libero porttitor cursus.
-        Etiam non nisl eget urna commodo hendrerit.
-        Aenean non elit vulputate, sollicitudin ante ut, fermentum neque.</br>\n\n\n
-
-         <b><br><h2>How to  use this App?</h2></br></b>\n\n
-       <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Nam sit amet elit ac libero porttitor cursus.
-        Etiam non nisl eget urna commodo hendrerit.
-        Aenean non elit vulputate, sollicitudin ante ut, fermentum neque.</br>\n\n
-          <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Nam sit amet elit ac libero porttitor cursus.
-        Etiam non nisl eget urna commodo hendrerit.
-        Aenean non elit vulputate, sollicitudin ante ut, fermentum neque.</br>
-
-        \n<b>Why you should use this App?</b>\n\n
-       <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Nam sit amet elit ac libero porttitor cursus.
-        Etiam non nisl eget urna commodo hendrerit.
-        Aenean non elit vulputate, sollicitudin ante ut, fermentum neque.</br>\n\n
-
-          <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Nam sit amet elit ac libero porttitor cursus.
-        Etiam non nisl eget urna commodo hendrerit.
-        Aenean non elit vulputate, sollicitudin ante ut, fermentum neque.</br>\n\n\n
-
-         <b><br><h2>How to  use this App?</h2></br></b>\n\n
-       <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Nam sit amet elit ac libero porttitor cursus.
-        Etiam non nisl eget urna commodo hendrerit.
-        Aenean non elit vulputate, sollicitudin ante ut, fermentum neque.</br>\n\n
-          <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Nam sit amet elit ac libero porttitor cursus.
-        Etiam non nisl eget urna commodo hendrerit.
-        Aenean non elit vulputate, sollicitudin ante ut, fermentum neque.</br>
-
-
-
-    </string>
-    <string name="vivek_lakhani_n20bcp154">Vivek Lakhani\n20BCP154</string>
-    <string name="maaiz_shaikh_n20bcp162">Maaiz Shaikh\n20BCP162</string>
-    <string name="kris_narola_n20bcp165">Kris Narola\n20BCp165</string>
-    <string name="prince_narola_n20bcp164">Prince Narola\n20BCP164</string>
-    <string name="dhruv_lunagariya_n20bcp153">dhruv Lunagariya\n20BCP153</string>
-    <string name="maaizprofilepicture">maaizProfilePicture</string>
 </resources>
